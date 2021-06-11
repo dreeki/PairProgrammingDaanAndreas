@@ -4,4 +4,4 @@
 
 output: 
     - winnaar
-    - manier van overwinninggit init
+    - manier van overwinning
